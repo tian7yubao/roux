@@ -1,13 +1,11 @@
-import { Nav } from "@/ui/nav";
 import { Title } from "@/ui/title";
-import { Roux } from "@/ui/roux";
+import { Router } from "@/ui/router";
 
 export default function App() {
     return (
         <>
-            <Nav/>
             <Title/>
-            <Roux/>
+            <Router/>
         </>
     )
 }

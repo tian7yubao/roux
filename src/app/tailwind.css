@@ -1,6 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap");
+
 @import "tailwindcss";
 
 @theme {
-    --font-zmx: "ZhiMangXing", cursive;
+    --font-zcool: "ZCOOL KuaiLe", sans-serif;
 }
